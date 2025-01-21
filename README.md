@@ -31,3 +31,9 @@ Selecione a conversão de moeda:
 0. Sair
 Escolha uma opção:
 ```
+
+
+<p align="center">
+  <img src="Badge-Conversor.png" alt="Texto alternativo" />
+</p>
+
